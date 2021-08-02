@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+### Statistics
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Yossbg's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=you1996&theme=vue-dark&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=you1996&theme=vue-dark&count_private=true" />
+  </a>
+</div>
 <!--
 **you1996/you1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
