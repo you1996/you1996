@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on IAM project as a an engineer at Flyweight Tunisia
 - 🌱 I’m currently learning about SaaSs, DevOps, cloud...
 - :fire: Open source enthusiast
-- 📫 How to reach me: [@youssri:matrix.org](https://matrix.to/#/@youssri:matrix.org) Or email :  [youssri@flyweight.tech](youssri@flyweight.tech)
+- 📫 How to reach me: [@youssri:matrix.org](https://matrix.to/#/@youssri:matrix.org) Or email :  [youssribentaghalline@gmail.com](youssribentaghalline@gmail.com)
 ### Have an idea and need collaborators !? don't hesitate to contact me i'am open to help
 
 ### Statistics
